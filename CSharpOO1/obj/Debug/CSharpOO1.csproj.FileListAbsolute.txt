@@ -1,0 +1,11 @@
+H:\C#\CSharpOO1\CSharpOO1\bin\Debug\CSharpOO1.exe.config
+H:\C#\CSharpOO1\CSharpOO1\bin\Debug\CSharpOO1.exe
+H:\C#\CSharpOO1\CSharpOO1\bin\Debug\CSharpOO1.pdb
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.csprojAssemblyReference.cache
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.Properties.Resources.resources
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.csproj.GenerateResource.cache
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.csproj.CoreCompileInputs.cache
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.exe
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.pdb
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.Game.resources
+H:\C#\CSharpOO1\CSharpOO1\obj\Debug\CSharpOO1.Main.resources
