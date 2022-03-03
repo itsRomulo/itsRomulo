@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Romulo
 - 👀 I’m 22y.  
-- 🌱 I’m currently learning C#, Entity Framework and other languages
+- 🌱 I’m currently learning Python, Django and other languages
 
 
 <!---
