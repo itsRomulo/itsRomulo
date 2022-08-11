@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Romulo
 - 👀 I’m 23y.  
-- 🌱 I’m currently learning Python, Django and other languages
+- 🌱 I’m Fullstack Developer.
+- 
 
 
 <!---
